@@ -1,0 +1,48 @@
+@media only screen and (max-width: 600px) {
+    * {
+        margin: 0;
+        padding: 0;
+        text-align: center;
+    }
+
+    .topcontainer {
+        padding-top: 40px;
+    }
+
+    .topcontainer h1 {
+        padding-bottom: 0;
+        font-size: 54px;
+    }
+
+    .top-cloud {
+        right: 18px;
+        top: 73px;
+        height: 42px;
+    }
+
+    .bottom-cloud {
+        bottom: 166px;
+        left: 10px;
+        height: 42px;
+    }
+
+    .topcontainer p {
+        font-size: 30px;
+    }
+
+    .mountain {
+        height: 175px;
+    }
+
+    .profile img {
+        height: 300px;
+    }
+
+    .skill-row {
+        width: 100%;
+    }
+
+    .skill-row p {
+        clear: both;
+    }
+}
