@@ -1,0 +1,140 @@
+* {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+.topcontainer {
+    background-color: #A6BB8D;
+    position: relative;
+    padding-top: 8.4375em;
+}
+
+.top-cloud {
+    position: absolute;
+    right: 24.625em;
+    top: 128px;
+    height: 4em;
+}
+
+.topcontainer h1 {
+    font-size: 4em;
+    font-family: 'Great Vibes', cursive;
+    padding-bottom: 20px;
+    margin-top: 100px;
+    color: #3c8c63;
+}
+
+.stu {
+    text-decoration: underline;
+}
+
+.topcontainer p {
+    font-size: 2em;
+    font-family: 'Changa', sans-serif;
+    color: #5e66ae;
+}
+
+.bottom-cloud {
+    position: absolute;
+    left: 24.625em;
+    height: 4em;
+    bottom: 25.375em;
+}
+
+.mountain {
+    height: 28.125em;
+}
+
+hr {
+    height: 5px;
+    border: none;
+    border-top: dotted;
+    width: 20%;
+    border-color: grey;
+    margin: auto;
+    margin-top: 35px;
+    margin-bottom: 20px;
+    border-width: 8px;
+}
+
+.middle-container {
+    background-color: rgb(204, 204, 224);
+    padding-bottom: 55px;
+}
+
+.middle-container h2 {
+    font-size: 40px;
+    font-family: 'Changa', sans-serif;
+    color: #3c8c63;
+}
+
+.middle-container p {
+    font-size: x-large;
+    margin-bottom: 46px;
+    color: #495579;
+}
+
+.middle-container h3 {
+    padding: 24px;
+    font-size: 25px;
+    color: #495579;
+}
+
+.profile img {
+    height: 379px;
+}
+
+.skillimg-1 {
+    width: 15%;
+    float: left;
+}
+
+.skillimg-2 {
+    width: 28%;
+    float: right;
+    margin-top: 40px;
+}
+
+.skill-row {
+    width: 50%;
+    margin: 10px auto;
+    text-align: left;
+}
+
+.contact-me a:hover {
+    background-color: #86C8BC;
+    color: black;
+}
+
+.btn {
+    background-color: #3c8c63;
+    font-size: 25px;
+    text-decoration: none;
+    padding: 9px;
+    border: 2px solid blue;
+    border-radius: 15px;
+    color: #7F167F;
+}
+
+.bottom-container {
+    height: 100px;
+    padding: 25px;
+    background-color: #66BFBF;
+    font-size: x-large;
+}
+
+.bottom-container a {
+    text-decoration: none;
+    padding: 25px;
+    color: #205295;
+}
+
+.bottom-container a:hover {
+    color: #11999E;
+}
+
+.bottom-container p {
+    color: #EAF6F6;
+    padding: 14px;
+}
