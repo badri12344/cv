@@ -17,11 +17,15 @@
     height: 4rem;
 }
 
+.logo img {
+    height: 130px;
+}
+
 .topcontainer h1 {
     font-size: 4rem;
     font-family: 'Great Vibes', cursive;
-    padding-bottom: 1.25rem;
-    margin-top: 6.25rem;
+    /* padding-bottom: 1.25rem; */
+    margin-top: 1.25rem;
     color: #3c8c63;
 }
 
@@ -118,7 +122,7 @@ hr {
 }
 
 .bottom-container {
-    height: 100px;
+    height: 90px;
     padding: 25px;
     background-color: #66BFBF;
     font-size: x-large;
@@ -137,4 +141,5 @@ hr {
 .bottom-container p {
     color: #EAF6F6;
     padding: 14px;
+    margin-top: 15px;
 }
